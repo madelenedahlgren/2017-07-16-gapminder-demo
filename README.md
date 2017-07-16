@@ -3,4 +3,4 @@ Demo repository for learning git with gapmider data
 
 Code from a Software carpentry workshop held at UCSF on July 15 and 16, 2017
 
-We can also add text from our local machines 
+We can also add paragraphs from our local machines 
